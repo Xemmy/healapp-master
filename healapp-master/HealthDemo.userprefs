@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthDemo\HealthDemo\Constants.cs">
+    <Files>
+      <File FileName="HealthDemo\HealthDemo.Android\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="HealthDemo\HealthDemo.iOS\AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HealthDemo\HealthDemo\Constants.cs" Line="2" Column="2" />
+      <File FileName="HealthDemo\HealthDemo.Android\AndroidDepService\HealthWebService.cs" Line="14" Column="14" />
+      <File FileName="HServer\Controllers\PublicApiControlers.cs" Line="26" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
